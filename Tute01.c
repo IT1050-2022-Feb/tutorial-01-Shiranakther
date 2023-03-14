@@ -6,7 +6,7 @@
 
 int main() {
    
-   float mark1,mark2, avarage,sum;
+   float mark1,mark2, average,sum;
    printf("enter first subject mark");
    scanf("%f",&mark1);
    printf("enter second subject mark");
